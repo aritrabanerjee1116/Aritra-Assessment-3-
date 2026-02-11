@@ -1,16 +1,13 @@
-# React + Vite
+<h1>Steps</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Step 1:</h2>
+<p>Open the Project using Github or Vercel hosted link.</p>
+<h2>Step 2:</h2>
+<p>You will see the my Music Player React.js App, now you can simple click on the choose files option, make sure to choose only audio file, or else it will not going to work.</p>
+<h2>Step 3:</h2>
+<p>Now you just need to tap on the file name of the audio file you uploaded! That's it, by clicking on that you can immediately start listening to your favourite music</p>
+<h2>Step 4:</h2>
+<p>You can add multiple audio files and you can switch easily between play Next or play Prev Music!</p>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h3>Honest Confession:</h3>
+<p>This project is still under Development and I will fix the errors As Soon As Possible</p>
